@@ -13,7 +13,7 @@ h6 {
   font-weight: bolder;
 }
 .bgimg {
-  background-image: url('bg.jpeg');
+  background-image: url('https://ibb.co/ZSV0cHr');
   min-height: 100%;
   background-position: center;
   background-size: cover;

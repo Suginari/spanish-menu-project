@@ -8,9 +8,6 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
 <style>
 
-h6 {
-  font-weight: bolder;
-}
 .bgimg {
     background-image:url("https://lawrencecheng123.github.io/Seattle.jpg");
     /*background-color: lightgray;*/

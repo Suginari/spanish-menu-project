@@ -13,10 +13,17 @@ h6 {
   font-weight: bolder;
 }
 .bgimg {
-  background-image: url("docs/assets/bg.jpeg");
-  min-height: 100%;
-  background-position: center;
-  background-size: cover;
+    background-image:url("https://lawrencecheng123.github.io/Seattle.jpg");
+    /*background-color: lightgray;*/
+    height: 700px;
+    width:100%;
+    background-size:cover;
+}
+    background-image:url("https://lawrencecheng123.github.io/Seattle.jpg");
+    /*background-color: lightgray;*/
+    height: 700px;
+    width:100%;
+    background-size:cover;
 }
 </style>
 </head>
